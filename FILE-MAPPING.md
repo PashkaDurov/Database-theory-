@@ -21,3 +21,7 @@
 - Презентация 2.pptx → [materials/theory/Презентация 2.pptx](materials/theory/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202.pptx)
 - Презентация 3.pptx → [materials/theory/Презентация 3.pptx](materials/theory/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%203.pptx)
 - Презентация 4.pptx → [materials/theory/Презентация 4.pptx](materials/theory/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%204.pptx)
+- Аналитика БД.docx → [materials/assignments/07-Задание.docx](materials/assignments/07-Задание.docx)
+- Аналитика БД — выполнено.docx → [works/07-sql-server-profiler/07-Выполнение.docx](works/07-sql-server-profiler/07-Выполнение.docx)
+- Работа на уроке 8.docx → [materials/assignments/08-Задание.docx](materials/assignments/08-Задание.docx)
+- Работа на уроке 8 — выполнено.docx → [works/08-sql-server-security/08-Выполнение.docx](works/08-sql-server-security/08-Выполнение.docx)
