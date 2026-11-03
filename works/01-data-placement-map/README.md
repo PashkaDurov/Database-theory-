@@ -14,7 +14,7 @@
 
 [Отчёт с выполненной работой](01-Выполнение.docx)
 
-В [project-from-DB-theory](project-from-DB-theory/) включены все 3 файла [первоначального проекта](https://github.com/PashkaDurov/DB-theory), коммит `42f8eec68f26d688a4f248dbd1455acb18a30f07`. Они скопированы как обычные файлы, без вложенного Git-репозитория. Основной отчёт совпадает с локальным по SHA-256; два артефакта дополняют его.
+В [project-from-DB-theory](project-from-DB-theory/) включены все 3 файла [первоначального проекта](https://github.com/PashkaDurov/DB-theory)
 
 ## Закрепляемые навыки
 
